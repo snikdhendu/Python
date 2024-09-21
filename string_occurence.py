@@ -1,0 +1,5 @@
+p=input("Enter a string:")
+q=input("Enter your target string:")
+n=len(p)
+count = p.count(q)
+print("Theof occurence of",q,"is:",count)       
